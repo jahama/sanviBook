@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"console"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nick",
+				"nicknames"
+			],
+			[
+				"usua",
+				"usuarios"
+			],
+			[
+				"liste",
+				"listen"
+			],
+			[
+				"ap",
+				"app"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/easyBook/sanviBook"
+	],
+	"file_history":
+	[
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/estadisticas.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/acta.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/css/actas.css",
+		"/G/Seguridad/flu-project/AnubisV1-3/Leeme.txt",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/video.html",
+		"/G/Seguridad/FOCA FINAL 23 DIC/README.txt",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/index.html",
+		"/G/Seguridad/flu-project/analisis-con-anubis/sanvicenteirun.com/svp_fuzzing",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/css/style.css",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/cadetes2.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/cadetes.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-side-menu-with-tabs-in-subview/js/index.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-side-menu-with-tabs-in-subview/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppBlank/www/templates/tabs.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/tabs.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/menu.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/playlists.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/playlist.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenuTabs/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/templates/tabs.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/js/controllers.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/tab-video.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/templates/tab-nuevo.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/templates/tab-dash.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/js/index.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/templates/tab-chats.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/templates/tab-account.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenuTabs/www/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenuTabs/www/templates/root.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/templates/root.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/js/controllers.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppTabs/www/js/services.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/myAppMenu/www/templates/tab-dash.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/app/scripts/controllers.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/app/scripts/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/ionic-sidemenu-tabs/gulpfile.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/index.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/pruebas/tabs.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/jornadas.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/pruebas/chat-detail.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/login.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/jornada2.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/jornada.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/menu.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/templates/playlist.html",
+		"/C/Users/Javi/Google Drive/AngularJS/cordova/hondarribiaApp/www/js/controllers.js",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/js/controllers.js",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/templates/playlist.html",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/templates/menu.html",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/templates/playlists.html",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/templates/equipo.html",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hondarribiaApp/www/js/app.js",
+		"/C/Users/Javi/Google Drive/AngularJS/EjemplosApps/hebApps/www/js/app.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428475993/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/list-jugadores.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428475059/192.168.2.250/home/administrador/meanjs/app/controllers/jugadores.server.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428480292/192.168.2.250/home/administrador/meanjs/app/controllers/jugadores.server.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428480383/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/controllers/jugadores.client.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428480256/192.168.2.250/home/administrador/meanjs/app/models/jugadore.server.model.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428480340/192.168.2.250/home/administrador/meanjs/app/routes/jugadores.server.routes.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428476039/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/controllers/jugadores.client.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428476931/192.168.2.250/home/administrador/meanjs/public/modules/core/css/core.css",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428391603/192.168.2.250/home/administrador/meanjs/app/models/jugadore.server.model.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428396716/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/services/jugadores.client.service.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428394628/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/list-jugadores.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428388759/192.168.2.250/home/administrador/meanjs/app/controllers/jugadores.server.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428393609/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/controllers/jugadores.client.controller.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/articles/services/articles.client.service.js",
+		"/G/Programacion/MEANJS/meanjs/app/controllers/articles.server.controller.js",
+		"/G/Programacion/MEANJS/meanjs/app/models/article.server.model.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/articles/views/list-articles.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/public/modules/articles/articles.client.module.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/articles/controllers/articles.client.controller.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/articles/controllers/sftp-config.json",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428394715/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/services/jugadores.client.service.js",
+		"/G/Programacion/MEANJS/meanjs/app/controllers/videos.server.controller.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/services/videos.client.service.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/controllers/videos.client.controller.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/views/list-videos.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428388449/192.168.2.250/home/administrador/meanjs/server.js",
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428326366/192.168.2.250/home/administrador/meanjs/public/modules/core/css/core.css",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428325298/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/list-jugadores.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/config/env/all.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428315070/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/list-jugadores.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428317861/192.168.2.250/home/administrador/meanjs/public/modules/core/css/core.css",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428317400/192.168.2.250/home/administrador/meanjs/config/env/all.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428310089/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/list-jugadores.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/config/env/sftp-config.json",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428317312/192.168.2.250/home/administrador/meanjs/public/config.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/views/create-video.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/views/view-video.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/app/models/video.server.model.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428309760/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/edit-jugadore.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/views/edit-video.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428307440/192.168.2.250/home/administrador/meanjs/app/models/jugadore.server.model.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428315817/192.168.2.250/home/administrador/meanjs/config/env/all.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428316198/192.168.2.250/home/administrador/meanjs/public/config.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428309179/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/controllers/jugadores.client.controller.js",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428308728/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/create-jugadore.client.view.html",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428310236/192.168.2.250/home/administrador/meanjs/public/modules/jugadores/views/view-jugadore.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/app/routes/videos.server.routes.js",
+		"/G/Programacion/MEANJS/meanjs/app/controllers/core.server.controller.js",
+		"/G/Programacion/MEANJS/meanjs/app/views/layout.server.view.html",
+		"/G/Programacion/MEANJS/meanjs/public/modules/core/config/core.client.routes.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/core/views/home.client.view.html",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/config/videos.client.config.js",
+		"/G/Programacion/MEANJS/meanjs/public/modules/videos/config/videos.client.routes.js",
+		"/G/Programacion/MEANJS/meanjs/public/application.js",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour13/miChat/app.js",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour13/miChat/views/chat.html",
+		"/C/Users/Javi/Desktop/bios-pc-viejo.txt",
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/192.168.2.250",
+		"/C/users/javi/appdata/local/temp/sublime-sftp-browse-1428236879/192.168.2.250/home/administrador/meanjs/config/express.js",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour13/miChat/views/layout.jade",
+		"/C/Users/Javi/Downloads/server.js",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour07/example06/app.js",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour07/example01/app.js",
+		"/C/Users/Javi/Downloads/prueba.html",
+		"/G/Programacion/Node/libroNodejs/nodejsbook.io.examples/hour12/example01/app.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Javi\\Google Drive\\AngularJS\\EjemplosApps\\hebApps",
+			"G:\\Programacion\\MEANJS\\meanjs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tabs.restaurant",
+			"WelcomeCtrl",
+			"home-tab",
+			"tabs",
+			"name=\"snd\"",
+			"snd",
+			"tab-dash",
+			"menuContent",
+			"ng-",
+			"NavController",
+			"ng-c",
+			"FstController",
+			"ionicAppProvider",
+			".query",
+			"Article.query",
+			"query",
+			">",
+			">\n",
+			"h4",
+			"border"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"span"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "sanviBook.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
